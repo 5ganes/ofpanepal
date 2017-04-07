@@ -4,7 +4,7 @@ define("ADMIN_PAGE_WIDTH", 1000);
 define("ADMIN_LEFT_WIDTH", "20%");
 define("ADMIN_BODY_WIDTH", "80%");
 define("ADMIN_TITLE", "Admin Control Panel");
-define("PAGE_TITLE", "Department of Environment");
+define("PAGE_TITLE", "Organic Fertilizer Production Association");
 define("SITE_URL", "http://localhost/ofpanepal/");
 
 
